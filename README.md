@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiast of the best web & mobile development technologies.</h3>
 
 <p>
-   <img src="./.github/capa.jpeg" alt="VM" border="0" width="100%">
+   <img src="https://raw.githubusercontent.com/viniciumedeiros/viniciumedeiros/master/.github/capa.jpeg" alt="VM" border="0" width="100%">
 </p>
 
 I’m a full stack developer that loves everything about coding.
